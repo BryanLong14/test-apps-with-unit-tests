@@ -1,0 +1,18 @@
+{
+  "name": "version-1",
+  "version": "1.0.0",
+  "description": "In queries.js you'll find 2 functions which already have implementations. These functions may have errors, they may not. Your objective is to write tests using `Mocha` and `Chai` for each one that can prove they are correct or incorrect.",
+  "main": "queries.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
